@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paises SYSTEM "paises.dtd">
+<paises>
+    <pais id="p1">
+        <nombre>mexico</nombre>
+        <continente>america</continente>
+        <capital>ciudad de mexico</capital>
+        <superficie>1964375</superficie>
+        <poblacion>126014024</poblacion>
+        <ciudades>
+            <ciudad>guadalajara</ciudad>
+            <ciudad>monterrey</ciudad>
+            <ciudad>tijuana</ciudad>
+        </ciudades>
+        <lenguas>
+            <lengua>espanol</lengua>
+        </lenguas>
+        <religiones>
+            <religion>catolicismo</religion>
+            <religion>protestantismo</religion>
+        </religiones>
+        <moneda>peso mexicano</moneda>
+    </pais>
+
+    <pais id="p2">
+        <nombre>espana</nombre>
+        <continente>europa</continente>
+        <capital>madrid</capital>
+        <superficie>505990</superficie>
+        <poblacion>47329981</poblacion>
+        <ciudades>
+            <ciudad>barcelona</ciudad>
+            <ciudad>valencia</ciudad>
+            <ciudad>sevilla</ciudad>
+        </ciudades>
+        <lenguas>
+            <lengua>espanol</lengua>
+            <lengua>catalan</lengua>
+        </lenguas>
+        <religiones>
+            <religion>catolicismo</religion>
+        </religiones>
+        <moneda>euro</moneda>
+    </pais>
+</paises>

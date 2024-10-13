@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mexico.xsd">
+    <nombre>mexico</nombre>
+    <poblacion>126014024</poblacion>
+    <continente>america</continente>
+    <capital>
+        <nombre>ciudad de mexico</nombre>
+        <coordenadas>
+            <latitud>19.432608</latitud>
+            <longitud>-99.133209</longitud>
+        </coordenadas>
+    </capital>
+    <fotografias>
+        <foto>
+            <nombre>chichen itza</nombre>
+            <descripcion>ruinas arqueologicas mayas en yucatan</descripcion>
+            <url>https://cdn.britannica.com/86/179586-138-8B763D72/Overview-Chichen-Itza-Yucatan-Mexico.jpg</url>
+        </foto>
+        <foto>
+            <nombre>playa del carmen</nombre>
+            <descripcion>hermosa playa en la riviera maya</descripcion>
+            <url>https://viajeronomada.com/wp-content/uploads/2016/01/cancunoplayadelcarmen.jpg</url>
+        </foto>
+    </fotografias>
+</pais>

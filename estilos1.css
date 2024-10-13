@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #006847;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #006847;
+    margin-bottom: 10px;
+}
+
+section p {
+    margin: 0;
+}
+
+.bandera {
+    display: block;
+    margin: 0 auto;
+    width: 45px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+foto-lugar {
+    width: 30px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
